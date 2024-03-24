@@ -12,6 +12,12 @@ npm run start
 ```
 
 to run mealmingle backend
+backend needs .env with following values:
+```
+MONGODB_URL = 
+AI_API = (astica API key)
+MONGODB_PASS = 
+```
 (runs on port 9001)
 
 ``` 
