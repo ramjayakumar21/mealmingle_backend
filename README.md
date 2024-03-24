@@ -16,6 +16,7 @@ to run mealmingle backend
 
 ``` 
 git clone https://github.com/ramjayakumar21/mealmingle_backend
+cd mealmingle_backend
 npm ci
 npm run devstart
 ```
